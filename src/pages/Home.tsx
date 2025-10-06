@@ -59,7 +59,7 @@ export const Home = () => {
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </Link>
               </Button>
-              <Button asChild variant="outline" size="xl" className="border-white text-white hover:bg-white hover:text-primary">
+              <Button asChild variant="outline" size="xl" className="border-white text-primary hover:bg-white hover:text-blue">
                 <Link to="/products?featured=true">
                   Featured Items
                 </Link>
